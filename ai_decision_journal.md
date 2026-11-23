@@ -105,3 +105,4 @@ This journal documents the major architectural, algorithmic, and safety decision
   3. `review.csv`: Exception handling queue with explicit reasons.
   4. `summary.txt`: Executive brief highlighting unplaced students.
 - **Rationale:** Decoupling exceptions (`review.csv`) from successful matches (`eligible.csv`) prevents human reviewers from having to sift through hundreds of clean records to find ambiguous cases.
+

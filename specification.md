@@ -83,3 +83,4 @@ The tool outputs four draft files into `output/`:
 4. `summary.txt`: Executive summary including counts and students eligible for no jobs yet.
 
 > **The Human Checkpoint:** Every generated list is an unverified **DRAFT**. The placement officer must inspect `review.csv` to resolve edge cases and sign off on `eligible.csv` before distribution.
+

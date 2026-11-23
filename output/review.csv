@@ -1,4 +1,11 @@
 id,company,post,reason
-J02,Nimbus Cloud,Hiring for Software Developer role. Strong coding skills needed. CGPA 7 and above. 2027 batch,no branch named in post
-J04,Kovai Motors,Mechanical and EEE students of 2027 batch only. Minimum 70 percent in all semesters,no CGPA cut-off written in post (percentage or vague cut-off?)
-J06,Sparkline Analytics,"Open to AI&DS, CSE and IT. Candidates must be in the top 10 percent of their class",no CGPA cut-off written in post (percentage or vague cut-off?)
+J01,Zentrix Software,Open to CSE IT and AI&DS students of the 2027 batch. Minimum CGPA 7.5. No active backlogs allowed,LLM reply missing or invalid after retry
+J02,Nimbus Cloud,Hiring for Software Developer role. Strong coding skills needed. CGPA 7 and above. 2027 batch,LLM reply missing or invalid after retry
+J03,Bluepeak Systems,Freshers from any branch can apply. CGPA 6.5 or above,LLM reply missing or invalid after retry
+J04,Kovai Motors,Mechanical and EEE students of 2027 batch only. Minimum 70 percent in all semesters,LLM reply missing or invalid after retry
+J05,Greenfield Infra,"Civil and Mechanical engineers, 2027 batch. CGPA 6.0 minimum. Up to 1 standing arrear is acceptable",LLM reply missing or invalid after retry
+J06,Sparkline Analytics,"Open to AI&DS, CSE and IT. Candidates must be in the top 10 percent of their class",LLM reply missing or invalid after retry
+J07,Voltedge Electronics,"ECE and EEE students only, 2027 batch, CGPA 7.0 or above, no backlogs",LLM reply missing or invalid after retry
+J08,Medilink Health,"CSE, IT only. 7.5 CGPA. No active backlogs. 2027 batch",LLM reply missing or invalid after retry
+J09,Orbit Retail,All branches welcome. 2026 batch only. Minimum CGPA 6.0. Backlogs up to 2 allowed,LLM reply missing or invalid after retry
+J10,Quantum Edge,Computer Science and AI & Data Science students of the 2027 batch with 8.0 CGPA and above. No standing arrears,LLM reply missing or invalid after retry

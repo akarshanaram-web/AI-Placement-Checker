@@ -353,3 +353,4 @@ def write_eval_markdown(eval_results, red_team_results):
 if __name__ == "__main__":
     success = run_eval()
     sys.exit(0 if success else 1)
+

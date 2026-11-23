@@ -1,18 +1,39 @@
 DRAFT - the placement officer must check this before it is shared.
 
 Eligible students per job
-  J01 Zentrix Software: 5 eligible
+  J01 Zentrix Software: NEEDS REVIEW (not matched)
   J02 Nimbus Cloud: NEEDS REVIEW (not matched)
-  J03 Bluepeak Systems: 20 eligible
+  J03 Bluepeak Systems: NEEDS REVIEW (not matched)
   J04 Kovai Motors: NEEDS REVIEW (not matched)
-  J05 Greenfield Infra: 3 eligible
+  J05 Greenfield Infra: NEEDS REVIEW (not matched)
   J06 Sparkline Analytics: NEEDS REVIEW (not matched)
-  J07 Voltedge Electronics: 2 eligible
-  J08 Medilink Health: 3 eligible
-  J09 Orbit Retail: 4 eligible
-  J10 Quantum Edge: 3 eligible
+  J07 Voltedge Electronics: NEEDS REVIEW (not matched)
+  J08 Medilink Health: NEEDS REVIEW (not matched)
+  J09 Orbit Retail: NEEDS REVIEW (not matched)
+  J10 Quantum Edge: NEEDS REVIEW (not matched)
 
 Students eligible for no job yet
+  27CS001 Arun Kumar (CSE, CGPA 8.4)
+  27IT002 Lakshmi P (IT, CGPA 7.0)
+  26CS010 Gokul R (CSE, CGPA 8.8)
+  27CS003 Meena S (CSE, CGPA 7.5)
+  27CS004 Karthik V (CSE, CGPA 9.1)
+  27CS005 Divya M (CSE, CGPA 6.8)
+  27IT006 Sanjay T (IT, CGPA 7.9)
+  27IT007 Preethi K (IT, CGPA 8.2)
+  27AD008 Harini B (AIDS, CGPA 8.0)
+  27AD009 Naveen J (AIDS, CGPA 10.0)
+  27AD010 Swetha R (AIDS, CGPA 7.2)
+  27EC011 Vimal D (ECE, CGPA 7.0)
   27EC012 Nandhini A (ECE, CGPA 6.4)
+  27EE013 Surya P (EEE, CGPA 7.6)
+  27EE014 Yuvaraj L (EEE, CGPA 6.9)
+  27ME015 Bharath G (MECH, CGPA 6.0)
+  27ME016 Ajay K (MECH, CGPA 7.3)
   27ME017 Rakesh N (MECH, CGPA 5.9)
+  27CE018 Deepika S (CIVIL, CGPA 6.5)
   27CE019 Mohan Raj (CIVIL, CGPA 5.8)
+  26IT020 Pavithra C (IT, CGPA 7.7)
+  26EC021 Ganesh H (ECE, CGPA 8.1)
+  26ME022 Tamilselvi V (MECH, CGPA 6.6)
+  28CS023 Ishwarya M (CSE, CGPA 8.9)

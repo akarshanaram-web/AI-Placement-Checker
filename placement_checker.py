@@ -182,6 +182,21 @@ def call_llm(system_prompt, post):
         )
         return response.content[0].text or ""
 
+    # Gemini support – uses GOOGLE_GENERATIVEAI SDK
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    if gemini_key and gemini_key != "your-key-here":
+        try:
+            import google.generativeai as genai
+        except ImportError:
+            # If the SDK is not installed, raise to trigger fallback
+            raise
+        genai.configure(api_key=gemini_key)
+        model_name = os.environ.get("LLM_MODEL", "gemini-1.5-flash")
+        model = genai.GenerativeModel(model_name)
+        # Provide system prompt and user post
+        response = model.generate_content([system_prompt, f"<post>{post}</post>"])
+        return response.text or ""
+
     openrouter_key = os.environ.get("OPENROUTER_API_KEY")
     if openrouter_key and openrouter_key != "your-key-here":
         from openai import OpenAI

@@ -79,3 +79,4 @@ The **Human Checkpoint** is the central design requirement of the system:
    - The officer confirms disciplinary clearance or special placement waivers that the tool cannot see.
 4. **Step 4: Formal Sign-off**
    - Only after human verification and signature is the student roster exported and dispatched to the hiring partner.
+

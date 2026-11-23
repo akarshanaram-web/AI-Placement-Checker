@@ -173,3 +173,4 @@ Before any student list is sent to a recruiter:
 - [x] 400-word Engineering Reflection (`reflection.md`)
 - [x] Secure `.gitignore` excluding API keys and `.env`
 - [x] Minimum 3 meaningful Git commits
+
